@@ -29,8 +29,5 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`# hardhat_react_solidity-realestate
-# hardhat_react_solidity-realestate
-# hardhat_react_solidity-realestate
-# hardhat_react_solidity-realestate
-# hardhat_react_solidity-realestate
+
 # hardhat_react_solidity-realestate
